@@ -56,14 +56,20 @@ The video of my knob/motor device working with the battery is [here](https://you
 
 **Make a paper display that uses the servo to show how many times a button on the front has been pressed (or any other thing you can sense or count). Ideally you should design it so that you can slide the breadboard out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.**
 
-NYI (coming this afternoon!)
+To fulfill the last parts of this lab, I submit an Arduino- and servo-powered project I created from scratch when working at a 3D printing company. I went through all the steps of demonstration prototyping multiple times to make this project work, including several rounds of custom-3D printed interfacing parts. The final project was a closed box containing 3 arduino boards controlling 37 individual TowerPro servo motors hidden behind a particle board plate. I've included the control code for the project and several pictures and videos of it working. 
 
 **a. Make a video of your paper display in action.**
 
-NYI (coming this afternoon!)
+![Sorting Test Setup](/IMG_2674.JPG)
+
+![Sorting Test Setup](/IMG_2676.JPG)
 
 ## Part F. Make it your own
 
 **a. Make a video of your final design in action.**
 
-NYI (coming this afternoon!)
+![Sorting Test Setup](/IMG_2737.JPG)
+
+
+Videos of the sorter in action are [here](https://youtu.be/n1HKBAxrhnk) and [here](https://youtu.be/j6aKxGVgyYc).
+
